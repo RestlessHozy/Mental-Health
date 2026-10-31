@@ -100,7 +100,7 @@ export function Testimonials() {
                       <p className="text-2xl font-bold">{testimonial.name.charAt(0)}</p>
                     </div>
                     <blockquote className="text-xl italic text-gray-600 dark:text-gray-300 text-center md:text-left">
-                      "{testimonial.quote}"
+                      &ldquo;{testimonial.quote}&rdquo;
                     </blockquote>
                     <p className="mt-4 text-center md:text-left">
                       <span className="font-bold">{testimonial.name}</span>, {testimonial.age}
@@ -110,12 +110,12 @@ export function Testimonials() {
                   </div>
                   
                   <div className="md:w-2/3">
-                    <h3 className="text-2xl font-bold mb-4 text-center md:text-left">{testimonial.name}'s Story</h3>
+                    <h3 className="text-2xl font-bold mb-4 text-center md:text-left">{testimonial.name}&apos;s Story</h3>
                     <p className="text-gray-600 dark:text-gray-300">{testimonial.story}</p>
                     
                     <div className="mt-8 p-4 bg-purple-50 dark:bg-purple-900/10 rounded-lg">
                       <p className="text-sm text-gray-600 dark:text-gray-300">
-                        <span className="font-bold">Note:</span> These stories are based on common experiences of people with mental health conditions. Each person's journey is unique, and recovery looks different for everyone.
+                        <span className="font-bold">Note:</span> These stories are based on common experiences of people with mental health conditions. Each person&apos;s journey is unique, and recovery looks different for everyone.
                       </p>
                     </div>
                   </div>

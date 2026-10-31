@@ -131,7 +131,7 @@ export function Symptoms() {
                 
                 <div className="mt-8 p-4 bg-gray-50 dark:bg-gray-700/50 rounded-lg">
                   <p className="text-sm text-gray-500 dark:text-gray-400">
-                    <span className="font-bold">Important:</span> This information is for educational purposes only and should not be used for self-diagnosis. If you're experiencing these symptoms, please consult with a healthcare professional.
+                    <span className="font-bold">Important:</span> This information is for educational purposes only and should not be used for self-diagnosis. If you&apos;re experiencing these symptoms, please consult with a healthcare professional.
                   </p>
                 </div>
               </motion.div>

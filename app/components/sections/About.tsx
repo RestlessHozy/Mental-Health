@@ -1,7 +1,6 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import Image from 'next/image';
 
 export function About() {
   const fadeIn = {
@@ -24,7 +23,7 @@ export function About() {
             About <span className="bg-gradient-to-r from-teal-500 to-purple-600 bg-clip-text text-transparent">MindfulHealth</span>
           </h2>
           <p className="text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            We're dedicated to raising awareness and providing support for mental health issues
+            We&apos;re dedicated to raising awareness and providing support for mental health issues
           </p>
         </motion.div>
 

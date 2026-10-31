@@ -112,7 +112,7 @@ export function EmergencyHelp() {
           className="mt-8 p-4 bg-gray-50 dark:bg-gray-700/50 rounded-lg text-center"
         >
           <p className="text-sm text-gray-600 dark:text-gray-300">
-            <strong>Note:</strong> These resources are primarily for the United States. If you're located in another country, 
+            <strong>Note:</strong> These resources are primarily for the United States. If you&apos;re located in another country, 
             please search for local mental health emergency services.
           </p>
         </motion.div>

@@ -46,7 +46,7 @@ export function Statistics() {
             Mental Health <span className="bg-gradient-to-r from-teal-500 to-purple-600 bg-clip-text text-transparent">By The Numbers</span>
           </h2>
           <p className="text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Understanding the scale of mental health challenges helps us recognize we're not alone
+            Understanding the scale of mental health challenges helps us recognize we&apos;re not alone
           </p>
         </motion.div>
 

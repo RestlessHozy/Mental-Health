@@ -54,7 +54,7 @@ export function Contact() {
             Get in <span className="bg-gradient-to-r from-teal-500 to-purple-600 bg-clip-text text-transparent">Touch</span>
           </h2>
           <p className="text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Have questions or need support? We're here to help. Fill out the form below and we'll get back to you soon.
+            Have questions or need support? We&apos;re here to help. Fill out the form below and we&apos;ll get back to you soon.
           </p>
         </motion.div>
 
@@ -140,7 +140,7 @@ export function Contact() {
                 </div>
                 <h3 className="text-2xl font-bold mb-2">Thank You!</h3>
                 <p className="text-gray-600 dark:text-gray-300 mb-6">
-                  Your message has been received. We'll get back to you as soon as possible.
+                  Your message has been received. We&apos;ll get back to you as soon as possible.
                 </p>
                 <Button variant="outline" onClick={() => setIsSubmitted(false)}>
                   Send Another Message
